@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "c:/Workspace/ELT5572/.venv/Scripts/python.exe"
+}{
+    "python-envs.pythonProjects": [
+        {
+            "path": "ELT572_project",
+            "envManager": "ms-python.python:system",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
